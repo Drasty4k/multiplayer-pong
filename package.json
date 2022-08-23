@@ -1,0 +1,23 @@
+{
+  "name": "multiplayer-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drasty4k/multiplayer-pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drasty4k/multiplayer-pong/issues"
+  },
+  "homepage": "https://github.com/Drasty4k/multiplayer-pong#readme",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
